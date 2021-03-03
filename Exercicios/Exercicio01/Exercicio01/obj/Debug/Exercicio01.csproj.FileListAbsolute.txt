@@ -1,0 +1,7 @@
+C:\Users\rodri\RepositoriosGIT\CSharpFatec\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\rodri\RepositoriosGIT\CSharpFatec\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\rodri\RepositoriosGIT\CSharpFatec\Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\rodri\RepositoriosGIT\CSharpFatec\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\Users\rodri\RepositoriosGIT\CSharpFatec\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\rodri\RepositoriosGIT\CSharpFatec\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\rodri\RepositoriosGIT\CSharpFatec\Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
