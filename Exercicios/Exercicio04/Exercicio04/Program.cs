@@ -10,6 +10,7 @@ namespace Exercicio04
     {
         static void Main(string[] args)
         {
+            pessoa();
         }
 
         static void pessoa()
@@ -19,11 +20,15 @@ namespace Exercicio04
 
             for (int i = 0; i < 10; i++)
             {
+                Console.Write("Insira a idade: ");
+                int.TryParse(Console.ReadLine(), out idade);
+
                 if (idade >= 18)
                 {
                     pessoas += 1;                
                 }
             }
+            Console.WriteLine(pessoas);
         }
     }
 }
